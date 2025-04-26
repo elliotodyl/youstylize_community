@@ -1,10 +1,10 @@
 # YouStylize Community
 
-Welcome to the community version of YouStylize, a web platform that leverages AI for photo style transfer and image editing. This repository contains the open-source codebase for running your own instance of YouStylize.
+Welcome to the community version of [YouStylize](https://youstylize.com), a web platform that leverages AI for photo style transfer and image editing. This repository contains the open-source codebase for running your own instance of YouStylize.
 
 ## About YouStylize
 
-YouStylize is an innovative tool that allows users to transform photos with AI-driven style transfer and perform advanced image editing. This community version brings the core functionality to developers and enthusiasts who want to explore, contribute, or deploy their own version of the platform.
+[YouStylize](https://youstylize.com) is an innovative tool that allows users to transform photos with AI-driven style transfer and perform advanced image editing. This community version brings the core functionality to developers and enthusiasts who want to explore, contribute, or deploy their own version of the platform.
 
 ## Environment Configuration
 
